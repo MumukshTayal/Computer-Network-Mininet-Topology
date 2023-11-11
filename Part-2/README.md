@@ -73,7 +73,7 @@ Explanation of Flags
 --------------------
 
 -   `--role`: Specifies the role, either 'server' or 'client'.
--   `--port`: Specifies the port number for the server.
+-   `--port`: Specifies the port number for the server (i.e., the port number being passed for role=server should be same as that for role=client).
 -   `--config`: Specifies the configuration, either 'b' or 'c'.
 -   `--congestion`: Specifies the congestion control scheme, choose from 'vegas', 'reno', 'cubic', 'bbr'.
 -   `--loss` (for Part d only): Specifies the link loss percentage.
