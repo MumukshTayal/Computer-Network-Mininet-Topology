@@ -1,12 +1,4 @@
-# Computer-Network-Assignment-2
-
-## Team Details
-
-1. **Name:** Mumuksh Tayal
-   - **Roll No:** 20110116
-
-2. **Name:** Mahesh Dange
-   - **Roll No:** 20110050
+# Computer-Network-Mininet-Topology-Implementation
 
 ## Instructions to Run
 
